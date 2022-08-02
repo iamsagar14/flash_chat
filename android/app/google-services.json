@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "66743656847",
+    "project_id": "flash-chatt-afaa3",
+    "storage_bucket": "flash-chatt-afaa3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66743656847:android:d6173e8bb0e745b0eeebfa",
+        "android_client_info": {
+          "package_name": "co.sagararyal.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66743656847-7e4iauh614u765fbpgb9c7dfte8dcfcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARKsiBPmOQjCX8VJ_we9aVzolk3bI3Oqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66743656847-7e4iauh614u765fbpgb9c7dfte8dcfcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
